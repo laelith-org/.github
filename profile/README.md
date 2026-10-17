@@ -8,7 +8,7 @@ To protect and develop this unique creation, the association Les bâtisseurs de 
 
 [Laelith.com](https://www.laelith.com) is the community portal used by the association to develop its online activities. Among these first projects already completed, Laelith.com offers:
 
-- A [wiki](https://wiki.laelith.com) detailing with precision the locations, characters, and concepts of Laelith, written and verified by the authors of the 2021 version (already more than 700 references to date),
+- A [wiki](https://wiki.laelith.com) detailing with precision the locations, characters, and concepts of Laelith, written and verified by the authors of the 2021 version (already over 1,000 references to date),
 - An [interactive map](https://map.laelith.com) offering MJ tools and automatic links to the wiki,
 - A [lot allocation system](https://www.laelith.com/lot/start) for community members to “bring the city to life” on a daily basis.
 
