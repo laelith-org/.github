@@ -1,2 +1,1 @@
-# .github
-Description of the laelith.com project
+# About the association "Les bâtisseurs de Laelith" and the laelith.com project
